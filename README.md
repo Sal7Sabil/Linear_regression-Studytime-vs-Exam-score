@@ -9,8 +9,12 @@ This repository contains python implementation of the linear regression algorith
 Explore linear regression line with new test data.
 
 # Screenshots
-<img src="" width="250" height="250" />
+<img src="https://github.com/Sal7Sabil/Linear_regression-Studytime-vs-Exam-score/blob/main/Linear_reg.png" width="250" height="250" />
 
+# Libraries used
+
+Matplotlib <br>
+Sklearn
 
 
 
